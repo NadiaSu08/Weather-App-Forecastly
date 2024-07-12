@@ -9,9 +9,12 @@ Forecastly is a responsive web application that provides current weather informa
   
 # Technologies Used:
 - Frontend: HTML5, CSS3, JavaScript
-- API: OpenWeatherMap API
-- Icons: Custom weather icons for visual representation
-
+  - HTML5: Structured the content and layout of the web pages.
+  - CSS3: Styled the application for a visually appealing interface and responsive design.
+  - JavaScript: Implemented functionality to fetch and display weather data dynamically.
+- OpenWeatherMap API: Integrated to retrieve current weather conditions and forecasts.
+- Custom Weather Icons: Designed and utilized custom icons for clear visualization of weather conditions.
+- 
 # How to Use:
 - Enter a city name in the search box.
 - Click the search button to fetch weather data.
